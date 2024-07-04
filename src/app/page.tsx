@@ -86,7 +86,7 @@ export default function Home() {
                   alt="loader"
                   width={50}
                   height={50}
-                  className="object-contain"
+                  className="object-contain "
                 />
               </div>
             )}
