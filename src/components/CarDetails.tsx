@@ -8,7 +8,7 @@ import {
 } from "@headlessui/react";
 import Image from "next/image";
 import React, { Fragment } from "react";
-import { generateCarImageUrl } from "../../utils";
+import { generateCarImageUrl } from "../utils";
 
 interface CarDetailsProps {
   isOpen: boolean;

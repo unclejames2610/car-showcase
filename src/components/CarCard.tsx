@@ -2,7 +2,7 @@
 import { CarProps } from "@/types";
 import Image from "next/image";
 import React, { useState } from "react";
-import { calculateCarRent, generateCarImageUrl } from "../../utils";
+import { calculateCarRent, generateCarImageUrl } from "../utils";
 import CarDetails from "./CarDetails";
 import CustomButtom from "./CustomButtom";
 
